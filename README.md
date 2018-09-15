@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everybody!
+
+I'm Joanna. I like ice cream and holidays.
